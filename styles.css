@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
+@import url('https://fonts.googleapis.com/css?family=JetBrains+Mono');
 
 :root {
   --bg: #5f4b8b;
@@ -7,7 +8,7 @@
   --containerBg: #272727;
   --searchBg: var(--containerBg);
   --scrollbarColor: #3f3f3f;
-  --fontFamily: 'Roboto Mono', monospace;
+  --fontFamily: 'JetBrains Mono', 'Roboto Mono', monospace;
 }
 
 body {
